@@ -1,0 +1,43 @@
+*{
+    font-size: 1rem;
+}
+
+body{
+background-color: bisque;
+}
+
+.Anasayfa{
+    background-color: chocolate;
+}
+
+p.Anasayfa{
+    background-color: gold;
+}
+
+#Anaorta{
+    background-color: aqua;
+}
+
+#iletisimorta{
+    background-color: chartreuse;
+}
+
+#personeller-orta{
+    background-color: darkcyan;
+}
+
+.Iletisim{
+    background-color: brown;
+}
+
+.Personeller{
+    background-color: cornsilk;
+}
+
+p{
+    color: palevioletred;
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
